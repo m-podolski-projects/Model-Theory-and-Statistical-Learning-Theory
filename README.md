@@ -9,7 +9,7 @@ The content is primarily based on the foundational frameworks established by:
 ## Overview
 This thesis explores the structural dualities and theoretical bridge between Model Theory and Statistical Learning Theory, including:
 
-* **NIP Formulas & Theories**: Analysis of the No Independence Property, O-minimality, and externally definable sets.
-* **VC-Dimension & PAC-Learnability**: Combinatorial measures of concept class complexity and sample complexity bounds in learning theory.
+* **NIP Formulas & Theories**: Analysis of the No Independence Property and O-minimality.
 * **UDTFS Conjecture**: Uniform Definability of Types over Finite Sets in NIP structures and its combinatorial interpretations.
+* **VC-Dimension**: Combinatorial measure of concept class complexity in learning theory.
 * **Honest Sample Compression Schemes**: Formalization of Livni & Simon's framework, demonstrating how model-theoretic honesty translates into learning guarantees that safeguard against overfitting.
