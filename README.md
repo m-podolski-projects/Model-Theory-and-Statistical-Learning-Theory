@@ -1,6 +1,6 @@
 # Model Theory and Statistical Learning Theory
 
-This repository contains my Bachelor's Thesis on **Model Theory and Statistical Learning Theory**, focusing on **NIP Structures** and **Sample Compression Schemes**. 
+This repository contains my Bachelor's Thesis on **Model Theory and Statistical Learning Theory**, focusing on **VC-dimensions** and **Sample Compression Schemes**. 
 
 The content is primarily based on the foundational frameworks established by:
 > **A. Chernikov and P. Simon.** "Externally definable sets and dependent pairs II." *2012*.  
